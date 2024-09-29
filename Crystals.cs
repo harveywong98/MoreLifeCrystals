@@ -14,7 +14,7 @@ public class Crystals : ModSystem
     {
         progress.Message = "Adding even more life crystals";
 
-        var amount = 100;
+        var amount = 35;
 
         for (int n = 0; n < amount; n++)
         {
